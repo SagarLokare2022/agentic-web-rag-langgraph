@@ -1,8 +1,7 @@
-![image](https://github.com/....png)
+<img width="309" height="432" alt="image" src="https://github.com/user-attachments/assets/a3759540-9fda-48dc-8efe-b52b282c66f9" />
+
 
 # Agentic Web RAG (LangGraph + LangChain + OpenAI)
-
-![LangGraph Flow](assets/langgraph-flow.png)
 
 A simple **agentic Web RAG** project built with **LangGraph**:
 - The agent **routes** the question:
