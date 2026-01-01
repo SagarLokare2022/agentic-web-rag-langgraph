@@ -1,3 +1,5 @@
+![image](https://github.com/....png)
+
 # Agentic Web RAG (LangGraph + LangChain + OpenAI)
 
 ![LangGraph Flow](assets/langgraph-flow.png)
